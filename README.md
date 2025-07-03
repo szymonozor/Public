@@ -79,27 +79,3 @@ Project under the MIT license. See [LICENSE](LICENSE) for details.
 ## Features
 
 12345
-
-## Test Cases
-
-```python
-import calculator
-
-def test_add():
-    assert calculator.add(2, 3) == 5
-
-def test_subtract():
-    assert calculator.subtract(5, 2) == 3
-
-def test_integration():
-    result = calculator.add(2, 3)
-    assert result == 5
-    result = calculator.subtract(result, 1)
-    assert result == 4
-```
-
-def add(a, b):
-    return a + b
-
-def subtract(a, b):
-    return a - b
