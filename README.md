@@ -45,3 +45,7 @@ We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md).
 ## License
 
 Project under the MIT license. See [LICENSE](LICENSE) for details. 
+
+## Features
+
+12345
