@@ -58,7 +58,6 @@ def navigation_menu():
 
 def main():
     print("Welcome to the app!")
-    navigation_menu()
 
 if __name__ == "__main__":
     main()
