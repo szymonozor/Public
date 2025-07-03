@@ -49,3 +49,16 @@ Project under the MIT license. See [LICENSE](LICENSE) for details.
 ## Features
 
 12345
+
+
+def navigation_menu():
+    print("1. Home")
+    print("2. About")
+    print("3. Exit")
+
+def main():
+    print("Welcome to the app!")
+    navigation_menu()
+
+if __name__ == "__main__":
+    main()
