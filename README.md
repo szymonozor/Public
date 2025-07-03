@@ -56,8 +56,12 @@ def navigation_menu():
     print("2. About")
     print("3. Exit")
 
+def about():
+    print("This is a sample Python app.")
+
 def main():
     print("Welcome to the app!")
+    about()
 
 if __name__ == "__main__":
     main()
